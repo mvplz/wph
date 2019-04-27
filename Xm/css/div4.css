@@ -1,0 +1,15 @@
+#div4{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	background-size: 100% auto;
+	margin-top: -5px;
+}
+
+#div4>img{
+	width: 33%;
+}
+	
+	
+	
+
